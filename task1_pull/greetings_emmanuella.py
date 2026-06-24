@@ -9,3 +9,4 @@ def farewell(name):
 if __name__ == "__main__":
     print(greet("Emmanuella"))
     print(farewell("Emmanuella"))
+    print("Hello Emmanuella, welcome to blosom academy")
