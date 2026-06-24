@@ -7,5 +7,5 @@ def farewell(name):
 
 
 if __name__ == "__main__":
-    print(greet("Student"))
-    print(farewell("Student"))
+    print(greet("Emmanuella"))
+    print(farewell("Emmanuella"))
